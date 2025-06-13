@@ -1,52 +1,62 @@
 <h1 align="center">Hi 👋, I'm Trí (aka AzirEmperorShurima)</h1>
-<h3 align="center">🧑‍💻 A Software Engineer from Vietnam 🇻🇳</h3>
+<h3 align="center">🚀 A passionate Software Engineer from Vietnam</h3>
 
 ---
 
-- 🔭 I’m currently working on **cool browser extensions and backend services**
-- 🌱 I’m learning more about **AI, Edge Computing, and System Design**
-- ⚡ Fun fact: I enjoy building things late at night and naming variables like `shurimaSunDisc`
+- 🔭 Currently developing **browser extensions**, **automation tools**, and **backends**
+- 🌱 Currently exploring **AI, Security, and System Design**
+- ⚙ Tech stack: **Javascript, TypeScript, Node.js, React, Docker, MongoDB**
+- 🧑‍💻 My Git repositories reflect my curiosity and problem-solving approach
+- ⚡ Fun fact: Shurima will rise! 🌅
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="Javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="Typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
 </p>
+
+---
+
+### 📁 Pinned Repositories
+
+[![PetRescueHub](https://github-readme-stats.vercel.app/api/pin/?username=AzirEmperorShurima&repo=PetRescueHub&theme=radical)](https://github.com/AzirEmperorShurima/PetRescueHub)
+
+[![Text_To_MCQ_Generator](https://github-readme-stats.vercel.app/api/pin/?username=AzirEmperorShurima&repo=Text_To_MCQ_Generator&theme=radical)](https://github.com/AzirEmperorShurima/Text_To_MCQ_Generator)
+
+[![Integration_HR_SIPCS](https://github-readme-stats.vercel.app/api/pin/?username=AzirEmperorShurima&repo=Integration_HR_SIPCS&theme=radical)](https://github.com/AzirEmperorShurima/Integration_HR_SIPCS)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AzirEmperorShurima&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzirEmperorShurima&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AzirEmperorShurima&show_icons=true&theme=radical" alt="AzirEmperorShurima's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzirEmperorShurima&layout=compact&theme=radical" alt="Most used languages" />
 </p>
 
 ---
 
-### 🚀 Pinned Projects
+### 🏆 Trophies
 
-> Hãy pin 3–6 repo nổi bật nhất bạn đã làm (vào trang profile)
-
-- 🧩 [extension-qr-scanner](https://github.com/AzirEmperorShurima/extension-qr-scanner) – Extension tạo & quét mã QR cực mạnh
-- 🛡️ [secure-folder-app](https://github.com/...) – App bảo vệ folder bằng mật khẩu (nếu có)
-- 🧠 [ai-course-recommender](https://github.com/...) – Gợi ý khóa học theo AI
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AzirEmperorShurima&theme=monokai" alt="Trophies" />
+</p>
 
 ---
 
-### 📫 Contact me
+### 📫 Get in Touch
 
-- Email: `your@email.com`
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 📧 Email: `your.email@example.com`
+- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) (if you have)
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AzirEmperorShurima&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+> 💡Tip: You can **pin your best repositories** under your profile to highlight your most proud projects.
+
