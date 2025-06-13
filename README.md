@@ -37,7 +37,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AzirEmperorShurima&show_icons=true&theme=radical" alt="AzirEmperorShurima's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzirEmperorShurima&layout=compact&theme=radical" alt="Most used languages" />
 </p>
 
@@ -53,8 +52,7 @@
 
 ### 📫 Get in Touch
 
-- 📧 Email: `your.email@example.com`
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) (if you have)
+- 📧 Email: `tranvantri352@gmail.com`
 
 ---
 
